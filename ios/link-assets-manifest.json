@@ -1,0 +1,89 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-Black.ttf",
+      "sha1": "9b1295a32faac069e31b4fabfef2d44463d5f226"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-Bold.ttf",
+      "sha1": "a9398ac0f1d61475ea7bed19789f044f0c9d6fc0"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-ExtraBold.ttf",
+      "sha1": "3dea704a4951fc8970163b3006d6012867467368"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-ExtraLight.ttf",
+      "sha1": "041ef8ef467030ce228ea99246357ecc7068bc9f"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-Light.ttf",
+      "sha1": "b2ff05f9688df557cf6c8742f747d5a7dcc3a3e4"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-Medium.ttf",
+      "sha1": "9321c4ea6869ae1a598759a34ed27770c88c01a0"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-Regular.ttf",
+      "sha1": "456e74b0805d1931a7786d3d04673a3b02dd4dd3"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-SemiBold.ttf",
+      "sha1": "324846ad0f841908ef3a6b7caf3ac8d6e4e84c7b"
+    },
+    {
+      "path": "src/Assets/fonts/NotoSansArabic-Thin.ttf",
+      "sha1": "88050e31eb6a1346500298b54b8f5eb26e7e0a06"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "c23ede86996d8239865bcd04c806e3789aaa0b94"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-BoldItalic.ttf",
+      "sha1": "21bb3301498eea8b9c5abb1e8a065276105981a0"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-ExtraBold.ttf",
+      "sha1": "d26cd8614e40a2dda56953b863e255f1c798c245"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-ExtraBoldItalic.ttf",
+      "sha1": "761181538f88bb8cb16fac503b634e92df17f374"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "051b6b2acbd0e33252870dc28045ba27ae0acd77"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-Light.ttf",
+      "sha1": "448dbc1e8add1538f788c9e34cdb701ed25ac993"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-LightItalic.ttf",
+      "sha1": "96925397a2560a1de4cf0984591a37f62aa6e8bb"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-Medium.ttf",
+      "sha1": "f886dd439250f2a8a7326f3f6b433adf34c96fe8"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-MediumItalic.ttf",
+      "sha1": "b845bb5a4e11ee484942b4b326d6bec37526933a"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "9a19a459ca7bca15d2de8269b80411f2b4a71ccf"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "30fcdd8f737e6a86abda2d643d2f23c5286c4663"
+    },
+    {
+      "path": "src/Assets/fonts/OpenSans-SemiBoldItalic.ttf",
+      "sha1": "4c5aa8cc443dc8d478f9126cd2c17720a3eeabfb"
+    }
+  ]
+}
